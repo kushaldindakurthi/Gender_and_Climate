@@ -1,0 +1,50 @@
+Year,Country,Region,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emissions_MT,Crop_Yield_MT_per_HA,Extreme_Weather_Events,Irrigation_Access_%,Pesticide_Use_KG_per_HA,Fertilizer_Use_KG_per_HA,Soil_Health_Index,Adaptation_Strategies,Economic_Impact_Million_USD
+2001,India,West Bengal,Corn,1.55,447.06,15.22,1.737,8,14.54,10.08,14.78,83.25,Water Management,808.13
+2024,China,North,Corn,3.23,2913.57,29.82,1.737,8,11.05,33.06,23.25,54.02,Crop Rotation,616.22
+2001,France,Ile-de-France,Wheat,21.11,1301.74,25.75,1.719,5,84.42,27.41,65.53,67.78,Water Management,796.96
+2001,Canada,Prairies,Coffee,27.85,1154.36,13.91,3.89,5,94.06,14.38,87.58,91.39,No Adaptation,790.32
+1998,India,Tamil Nadu,Sugarcane,2.19,1627.48,11.81,1.08,9,95.75,44.35,88.08,49.61,Crop Rotation,401.72
+2019,USA,Midwest,Coffee,17.19,975.13,10.73,2.18,5,52.45,26.06,71.56,97.32,Water Management,353.16
+1997,Argentina,Northeast,Fruits,23.46,1816.41,27.7,1.611,2,20.22,0.56,28.72,79.09,Organic Farming,480.61
+2021,Australia,New South Wales,Rice,25.63,786.17,7.77,3.27,4,66.53,13.44,40.5,63.16,Drought-resistant Crops,1367.97
+2012,India,Punjab,Wheat,32.08,1233.1,6.1,2.99,1,45.87,10.09,32.54,42.31,Water Management,761.89
+2018,Nigeria,North West,Barley,21.23,475.32,25.74,0.765,1,25.74,44.38,72.92,84.21,No Adaptation,167.21
+2006,Nigeria,South East,Sugarcane,-3.57,1402.97,5.49,2.67,10,19.17,4.38,12.02,44.12,Water Management,1100.44
+1997,France,Grand Est,Coffee,34.36,518.11,13.11,2.4,3,70.38,20.54,27.25,80.47,Water Management,820.55
+1993,Russia,Northwestern,Vegetables,19.09,1505.86,14.22,4.29,3,12.49,10.95,32.76,54.92,Drought-resistant Crops,1201.8
+2003,USA,Northeast,Barley,14.7,2272.28,11.45,2.5,9,57.37,19.48,46.13,77.32,Drought-resistant Crops,1126.27
+1999,Nigeria,North West,Soybeans,12.16,328.52,20.15,3.681,9,47.13,32.95,8.69,36.32,Drought-resistant Crops,894.31
+1990,France,Grand Est,Soybeans,15.23,1468.76,5.41,3.12,5,62.01,2.49,27.56,76.44,Drought-resistant Crops,1524.34
+2018,Brazil,North,Barley,20.83,2639.04,6.01,3.64,10,52.71,28.15,61.34,88.14,Drought-resistant Crops,521.59
+2017,Nigeria,North West,Coffee,21.95,2480.33,11.71,1.37,10,84.04,19.86,21.74,78.53,Crop Rotation,571.98
+1997,Brazil,Northeast,Rice,17.45,1634.32,29.55,2.754,5,29.84,48.57,3.21,30.18,No Adaptation,1323.81
+2015,Russia,Siberian,Cotton,19.2,1086.11,23.38,3.987,4,47.81,29.58,24.76,82.85,Organic Farming,1805.57
+2000,Australia,New South Wales,Rice,30.08,1641.99,15.83,3.096,2,94.75,13.7,42.84,73.56,Organic Farming,345.85
+2016,India,West Bengal,Soybeans,14,1240.49,29.18,4.032,9,29.32,37.8,99.09,46.32,No Adaptation,1745.39
+1996,Argentina,Northwest,Coffee,21.59,666.95,28.44,1.584,10,41.15,18.3,85.97,35.89,Drought-resistant Crops,384.91
+2010,Australia,Victoria,Coffee,20.85,2294.81,8.66,2.82,3,39.88,29.31,79.91,59.92,Drought-resistant Crops,1222.94
+2002,France,Nouvelle-Aquitaine,Vegetables,20.22,227.39,16.61,2.628,5,34.96,16.61,72.55,72.74,Water Management,317.95
+1996,USA,South,Soybeans,27.73,1673.81,26.56,3.285,1,88.61,29.11,27.82,96.4,No Adaptation,1492.19
+2021,Canada,Quebec,Fruits,-0.57,2124.21,7.63,1.48,4,32.79,42.52,85.46,88.57,No Adaptation,432.78
+2011,Brazil,Southeast,Corn,15.75,1433.31,11.91,2.08,6,79.2,25.19,67.56,55.03,Organic Farming,933.72
+1999,Argentina,Northeast,Fruits,18.62,576.51,7.29,4.53,3,33.33,1.59,99.13,65.14,Organic Farming,1100.96
+1997,Australia,Victoria,Wheat,31.67,2364.58,13.16,3.33,4,72.38,48.77,12.25,94.46,Drought-resistant Crops,1244.49
+1995,Canada,Quebec,Cotton,16.52,2025.11,19.6,4.338,10,35.12,21.71,82.16,85.71,No Adaptation,829
+2018,Canada,Prairies,Fruits,31.98,609.15,11.39,2.33,0,77.23,34.58,85.28,40.44,Drought-resistant Crops,928.74
+2002,Canada,Prairies,Soybeans,1.92,541.99,1.31,0.71,10,15.47,33.16,80.93,51.13,No Adaptation,251
+2024,Canada,Ontario,Barley,4.99,2697.15,28.86,2.619,10,41.07,39.69,31.4,65.11,No Adaptation,657.71
+2004,China,East,Rice,-0.5,2892.43,18.33,1.593,7,34.21,13.13,81.9,77.07,Drought-resistant Crops,776
+1999,China,South,Vegetables,5.46,751.6,21.25,0.54,2,36.9,15.6,35.02,70.14,Organic Farming,140.36
+2015,Brazil,North,Sugarcane,14.69,804.11,23.52,4.248,1,75.67,1.73,78.02,49.8,No Adaptation,1581.37
+2008,Brazil,North,Fruits,5.64,2780.22,20.22,0.477,5,81.71,27.63,15.3,39.42,Drought-resistant Crops,205.93
+2005,Brazil,Southeast,Cotton,33.17,1910.34,14.43,1.28,5,97.01,12.87,67.32,38.04,Crop Rotation,177.43
+1998,Argentina,Pampas,Soybeans,0.15,1838.65,17.36,2.232,8,11.62,9.55,80.77,89.48,Crop Rotation,687.85
+2020,Australia,Western Australia,Sugarcane,17.77,1743.11,13.69,1.69,2,23.95,39.15,67.61,42.34,Water Management,440.49
+2019,Russia,Volga,Vegetables,11.53,2654.03,3.98,2.88,9,59.71,24.21,79.19,36.95,Organic Farming,1018.44
+1994,Russia,Northwestern,Cotton,19.82,2369.04,17.3,3.024,7,60.14,8.3,87.68,65.87,Drought-resistant Crops,1438.48
+2019,Argentina,Pampas,Rice,2.33,839.77,25.67,2.016,5,18.4,8.92,70.37,82.21,Organic Farming,524.89
+1991,Brazil,Northeast,Cotton,29.06,566,4.34,2.41,4,98.36,39.57,99.73,44.66,No Adaptation,1067.25
+2024,USA,South,Wheat,12.18,1647.58,19.1,1.872,8,36.61,43.15,22.46,52.18,Water Management,925.79
+1998,Brazil,South,Rice,28.86,1970.45,13.89,1.93,2,41.49,16.31,94.79,55.36,Drought-resistant Crops,763.3
+2022,China,South,Barley,6.49,2719.06,23.76,0.873,10,40.98,38.94,77.96,76.68,Organic Farming,118.24
+2015,Argentina,Northwest,Rice,4.45,900.63,18.26,0.855,2,18.34,35.77,77.36,58.2,Organic Farming,351.14
